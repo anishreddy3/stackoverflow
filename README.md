@@ -38,3 +38,6 @@ The main findings of the code can be found at the post available [here](https://
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
 
+I need to make sure I get what I deserve in order to live my life according to my own terms.
+Just need to quickly find someone, unable to stay alone.
+
